@@ -4,4 +4,5 @@ resources :entries
 
 get '/new' => 'entries#new'
 
+
 end
